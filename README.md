@@ -3,7 +3,7 @@ taro  多端开发
 
 
 
-##启动项目：
+## 启动项目：
 
 npm run dev:weapp
 npm run dev:h5
